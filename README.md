@@ -14,11 +14,11 @@
     <img src="https://img.shields.io/badge/GitHub-LuisD--Dev-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
 
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="(https://www.linkedin.com/in/luis-diego-campos-b1225b424/)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:luisdcampos31@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
 </p>
@@ -205,11 +205,11 @@ Main concepts:
 I am open to connecting with other developers, collaborating on projects, and exploring internship or junior developer opportunities.
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="(https://www.linkedin.com/in/luis-diego-campos-b1225b424/)">
     <img src="https://img.shields.io/badge/LinkedIn-Visit_Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:(https://mail.google.com/mail/u/0/#inbox)">
     <img src="https://img.shields.io/badge/Email-Send_Message-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
 </p>
