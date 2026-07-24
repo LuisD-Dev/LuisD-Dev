@@ -248,8 +248,6 @@ A logistics simulator developed in C++ using data structures and graph algorithm
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
-
 <div align="center">
 
 <a href="https://github.com/LuisD-Dev">
