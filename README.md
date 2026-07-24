@@ -5,22 +5,31 @@
 ### Software Engineering Student | Junior Software Developer
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;C%23+%26+.NET+Developer;React+%26+JavaScript+Developer;Database+and+Software+Architecture+Enthusiast;Always+Learning+and+Building"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Software+Engineering+Student;C%23+%26+.NET+Developer;React+%26+JavaScript+Developer;Database+Design+Enthusiast;Open+Source+Contributor;Always+Learning+and+Building"
   alt="Typing introduction"
 />
 
 <br>
 
 <a href="https://github.com/LuisD-Dev">
-  <img src="https://img.shields.io/badge/GitHub-LuisD--Dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img
+    src="https://img.shields.io/badge/GitHub-LuisD--Dev-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub profile"
+  />
 </a>
 
 <a href="https://www.linkedin.com/in/luis-diego-campos-b1225b424/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn profile"
+  />
 </a>
 
-<a href="mailto:luisdcampos31@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="https://discord.com/users/754015797302657100">
+  <img
+    src="https://img.shields.io/badge/Discord-pittypoa-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+    alt="Discord profile"
+  />
 </a>
 
 <br><br>
@@ -45,15 +54,16 @@ I am a **Software Engineering student** at Universidad Técnica Nacional in Cost
 
 I enjoy designing and developing software solutions, building web and desktop applications, working with databases, and collaborating on open-source projects.
 
-I am continuously strengthening my technical knowledge through academic projects, independent learning, and contributions on GitHub.
+I am continuously strengthening my technical skills through academic projects, independent learning, teamwork, and contributions on GitHub.
 
-- 🎓 Software Engineering student
+- 🎓 Studying Software Engineering
 - 💻 Interested in frontend, backend, and desktop development
-- ⚙️ Developing applications with C#, .NET, and Windows Forms
+- ⚙️ Developing desktop applications with C#, .NET, and Windows Forms
 - 🌐 Building web applications with React and JavaScript
 - 🗄️ Working with SQL Server, Supabase, and database design
 - 🏗️ Learning software architecture and design patterns
 - 🧪 Improving my automated testing and code quality skills
+- 🌱 Learning professional software development practices
 - 🤝 Interested in open-source collaboration
 - 🚀 Open to internship and junior developer opportunities
 - 📍 Based in Costa Rica
@@ -67,7 +77,7 @@ I am continuously strengthening my technical knowledge through academic projects
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=cs,java,cpp,js,html,css"
-    alt="Programming languages"
+    alt="C Sharp, Java, C Plus Plus, JavaScript, HTML and CSS"
   />
 </p>
 
@@ -75,8 +85,8 @@ I am continuously strengthening my technical knowledge through academic projects
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=dotnet,react,nodejs,supabase"
-    alt="Frameworks and technologies"
+    src="https://skillicons.dev/icons?i=dotnet,react,supabase"
+    alt=".NET, React and Supabase"
   />
 </p>
 
@@ -99,7 +109,7 @@ I am continuously strengthening my technical knowledge through academic projects
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman"
-    alt="Development tools"
+    alt="Git, GitHub, Visual Studio, Visual Studio Code and Postman"
   />
 </p>
 
@@ -112,28 +122,37 @@ I am continuously strengthening my technical knowledge through academic projects
 
 <br>
 
-A desktop application designed to manage the main operations of a condominium.
+A desktop application designed to manage the main administrative operations of a condominium.
 
 ### Technologies
 
 - C#
+- .NET
 - Windows Forms
 - SQL Server
+- QuestPDF
+- Git and GitHub
+
+### Architecture and Concepts
+
 - Layered architecture
 - Repository pattern
 - Data Transfer Objects
-- QuestPDF reports
+- Entity modeling
+- Business logic separation
+- Database normalization
 
 ### Main Features
 
-- Property and resident management
+- Property management
+- Owner and resident management
 - Billing and payment management
 - Reservation management
 - Financial reports
-- Database integration
+- SQL Server database integration
 - Role-based operations
 
-<p>
+<p align="center">
   <a href="https://github.com/LuisD-Dev/CondoGest_ISW524">
     <img
       src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"
@@ -151,7 +170,7 @@ A desktop application designed to manage the main operations of a condominium.
 
 <br>
 
-A web platform created to help users find pets available for adoption.
+A web platform created to help users find pets available for adoption and submit adoption requests.
 
 ### Technologies
 
@@ -160,16 +179,18 @@ A web platform created to help users find pets available for adoption.
 - JavaScript
 - JSON
 - LocalStorage
+- Git and GitHub
 
 ### Main Features
 
 - Pet catalog
-- Search by name
+- Search by pet name
 - Filters by species, age, and size
 - Favorite pets
 - Urgent adoption cases
-- Adoption requests
-- LocalStorage persistence
+- Adoption request management
+- User information persistence
+- Responsive interface
 
 </details>
 
@@ -199,6 +220,7 @@ An online football jersey store developed with React and Supabase.
 - Responsive interface
 - Supabase database integration
 - Smooth image transitions
+- Product variant management
 
 </details>
 
@@ -209,16 +231,17 @@ An online football jersey store developed with React and Supabase.
 
 <br>
 
-A logistics simulator developed in C++ using data structures and graph algorithms.
+A logistics simulator developed in C++ using data structures, graph algorithms, and object-oriented programming.
 
 ### Technologies and Concepts
 
 - C++
+- Object-oriented programming
 - Weighted graphs
 - Adjacency lists
 - Priority queues
 - Dijkstra's algorithm
-- Object-oriented programming
+- Data structures
 
 ### Main Features
 
@@ -227,7 +250,8 @@ A logistics simulator developed in C++ using data structures and graph algorithm
 - Delivery driver management
 - Urgent package prioritization
 - Strategy comparison
-- Performance metrics
+- Delivery performance metrics
+- Shortest-path calculation
 
 </details>
 
@@ -238,7 +262,7 @@ A logistics simulator developed in C++ using data structures and graph algorithm
 <a href="https://github.com/LuisD-Dev?tab=repositories">
   <img
     src="https://img.shields.io/badge/Explore_All_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="Explore repositories"
+    alt="Explore all repositories"
   />
 </a>
 
@@ -262,7 +286,7 @@ A logistics simulator developed in C++ using data structures and graph algorithm
   <img
     height="170"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=LuisD-Dev&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"
-    alt="Luis Diego's most used languages"
+    alt="Luis Diego's most used programming languages"
   />
 </a>
 
@@ -280,11 +304,14 @@ A logistics simulator developed in C++ using data structures and graph algorithm
 
 </div>
 
+---
+
 ## 🎯 Current Goals
 
 - Build complete full-stack applications
 - Improve my software architecture knowledge
 - Strengthen my automated testing skills
+- Apply design patterns in real-world projects
 - Learn professional development practices
 - Contribute to more open-source projects
 - Gain professional experience as a software developer
@@ -293,21 +320,21 @@ A logistics simulator developed in C++ using data structures and graph algorithm
 
 ## 🤝 Let's Connect
 
-I am open to connecting with developers, collaborating on projects, contributing to open-source software, and exploring internship or junior developer opportunities.
+I am open to connecting with other developers, collaborating on projects, contributing to open-source software, and exploring internship or junior developer opportunities.
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/luis-diego-campos-b1225b424/">
   <img
     src="https://img.shields.io/badge/LinkedIn-Visit_My_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn profile"
+    alt="Visit my LinkedIn profile"
   />
 </a>
 
-<a href="mailto:luisdcampos31@gmail.com">
+<a href="https://discord.com/users/754015797302657100">
   <img
-    src="https://img.shields.io/badge/Gmail-Send_Me_A_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Send email"
+    src="https://img.shields.io/badge/Discord-Contact_Me-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+    alt="Contact me on Discord"
   />
 </a>
 
@@ -321,12 +348,12 @@ I am open to connecting with developers, collaborating on projects, contributing
 
 **Always learning, improving, and building new projects.**
 
-<br>
+<br><br>
 
 <a href="https://github.com/LuisD-Dev">
   <img
     src="https://img.shields.io/badge/Follow_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="Follow my GitHub"
+    alt="Follow my GitHub profile"
   />
 </a>
 
