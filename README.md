@@ -248,19 +248,25 @@ A logistics simulator developed in C++ using data structures and graph algorithm
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <div align="center">
 
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=LuisD-Dev&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"
-  alt="Luis Diego's GitHub statistics"
-/>
+<a href="https://github.com/LuisD-Dev">
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api?username=LuisD-Dev&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"
+    alt="Luis Diego's GitHub statistics"
+  />
+</a>
 
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisD-Dev&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"
-  alt="Most used languages"
-/>
+<a href="https://github.com/LuisD-Dev?tab=repositories">
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=LuisD-Dev&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"
+    alt="Luis Diego's most used languages"
+  />
+</a>
 
 </div>
 
@@ -271,38 +277,10 @@ A logistics simulator developed in C++ using data structures and graph algorithm
 <img
   width="70%"
   src="https://streak-stats.demolab.com?user=LuisD-Dev&theme=tokyonight&hide_border=true"
-  alt="GitHub contribution streak"
+  alt="Luis Diego's GitHub contribution streak"
 />
 
 </div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=LuisD-Dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4"
-  alt="GitHub trophies"
-/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=LuisD-Dev&theme=tokyo-night&hide_border=true&area=true"
-  alt="GitHub contribution activity graph"
-/>
-
-</div>
-
----
 
 ## 🎯 Current Goals
 
