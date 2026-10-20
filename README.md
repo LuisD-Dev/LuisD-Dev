@@ -7,7 +7,7 @@
 Software Engineering student at **Universidad Técnica Nacional (UTN)**, Costa Rica.  
 I develop desktop and web applications, connecting user interfaces, business rules and relational databases.
 
-[Explore my projects](#selected-projects) · [Technical toolkit](#technical-toolkit) · [En español](#en-español) · [Connect on LinkedIn](https://www.linkedin.com/in/luis-diego-campos-b1225b424)
+[Explore my projects](#selected-projects) · [Technical toolkit](#technical-toolkit) · [Visitor hub](#visitor-hub) · [Connect on LinkedIn](https://www.linkedin.com/in/luis-diego-campos-b1225b424)
 
 </div>
 
@@ -104,24 +104,47 @@ I am strengthening my skills in API design, automated testing, database modeling
 
 My repositories show an ongoing learning process through academic work, implementation decisions and team collaboration.
 
-## En español
+## Visitor hub
+
+**Choose how you would like to connect.** Everyone can explore; posting requires a GitHub account. Messages are public, so please keep private contact details out of them.
+
+| Say hello | Build something together | Share an idea |
+| :--- | :--- | :--- |
+| Introduce yourself and tell me what you are working on. | Suggest a project, contribution or technical collaboration. | Ask a question or suggest an improvement to this profile. |
+| [Leave a greeting →](https://github.com/LuisD-Dev/LuisD-Dev/issues/new?title=Hello%20from%20a%20visitor&body=Hi%20Luis!%0A%0AWhat%20I%20am%20working%20on%3A%0A%0AHow%20I%20found%20your%20profile%3A%0A%0AA%20message%20for%20you%3A) | [Propose a collaboration →](https://github.com/LuisD-Dev/LuisD-Dev/issues/new?title=Collaboration%20proposal&body=Project%20or%20idea%3A%0A%0AWhat%20we%20could%20build%3A%0A%0ATechnologies%3A%0A%0AHow%20I%20would%20contribute%3A) | [Start a conversation →](https://github.com/LuisD-Dev/LuisD-Dev/issues/new?title=Question%20or%20suggestion&body=My%20question%20or%20idea%3A%0A%0ARelevant%20project%20or%20link%3A) |
+
+[Read visitor conversations](https://github.com/LuisD-Dev/LuisD-Dev/issues) · [Connect privately on LinkedIn](https://www.linkedin.com/in/luis-diego-campos-b1225b424)
 
 <details>
-<summary><b>Ver presentación en español</b></summary>
+<summary><b>I am a recruiter — where should I start?</b></summary>
 
 <br>
 
-### Hola, soy Luis Diego Campos
+Start with **Reservas-Labs** for full-stack development and software testing, then explore **CondoGest** for desktop development and layered architecture. Each project above links to its source and setup documentation.
 
-Estudio **Ingeniería del Software en la Universidad Técnica Nacional**, Costa Rica. Desarrollo aplicaciones web y de escritorio con **C#, .NET, React y SQL Server**.
+My current profile is that of a Software Engineering student, with practical experience through academic and collaborative projects. Connect through LinkedIn to discuss opportunities.
 
-Me interesa construir soluciones útiles, entender sus reglas de negocio y mejorar su calidad mediante pruebas y documentación.
+</details>
 
-- **Reservas-Labs:** aplicación web para reservar laboratorios, con validaciones y pruebas.
-- **CondoGest:** sistema de escritorio para la administración de condominios.
-- **ProyectoFlota:** proyecto académico en desarrollo para gestionar mantenimiento de flotas.
+<details>
+<summary><b>I am a developer — how can I get involved?</b></summary>
 
-Puedes explorar el código y las instrucciones de ejecución en los enlaces de cada proyecto, o conectar conmigo en LinkedIn.
+<br>
+
+Explore a project's README, try its local setup and review the code. If you find an improvement, open an issue in that project's repository with the problem, steps to reproduce and expected behavior. For a new idea, use the collaboration link above.
+
+</details>
+
+<details>
+<summary><b>I am learning — what can I explore?</b></summary>
+
+<br>
+
+- **Frontend + API + database:** explore Reservas-Labs.
+- **Desktop workflows + application layers:** explore CondoGest.
+- **Architecture in progress:** follow ProyectoFlota.
+
+Open the project details above for a short reading guide. Questions are welcome through the conversation link.
 
 </details>
 
