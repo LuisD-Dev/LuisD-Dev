@@ -1,206 +1,141 @@
-
-<!-- ========================================= -->
-<!-- LUIS DIEGO CAMPOS | GITHUB PROFILE README -->
-<!-- THEME: DARK PREMIUM / ELECTRIC BLUE      -->
-<!-- ========================================= -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:12263F,100:0284C7&height=200&section=header&text=Luis%20Diego%20Campos&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=39" alt="Luis Diego Campos banner"/>
+<img src="assets/profile-header.svg" width="100%" alt="Luis Diego Campos | Software Engineering Student | C#, .NET, React and SQL Server" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1100&color=38BDF8&center=true&vCenter=true&width=620&lines=Software+Engineering+Student;Junior+Software+Developer;Full-Stack+Development+Enthusiast;Building+Practical+Software+Solutions" alt="Animated introduction"/>
+# Building practical software, with quality in mind.
 
-<br/>
+Software Engineering student at **Universidad Técnica Nacional (UTN)**, Costa Rica.  
+I develop desktop and web applications, connecting user interfaces, business rules and relational databases.
 
-<a href="https://github.com/LuisD-Dev">
-  <img src="https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/luis-diego-campos-b1225b424">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<img src="https://img.shields.io/badge/Location-Costa_Rica-0369A1?style=for-the-badge" alt="Costa Rica"/>
+[Explore my projects](#selected-projects) · [Technical toolkit](#technical-toolkit) · [En español](#en-español) · [Connect on LinkedIn](https://www.linkedin.com/in/luis-diego-campos-b1225b424)
 
 </div>
 
 ---
 
-## About Me
+## Selected projects
 
-I'm **Luis Diego Campos**, a Software Engineering student at **Universidad Técnica Nacional (UTN)** in Costa Rica.
+### 01 / Reservas-Labs
+**Web development · Software testing · Team collaboration**
 
-I'm passionate about software development, problem-solving, and transforming ideas into functional applications.
+A laboratory reservation system developed for UTN's Software Testing course. Combines a React interface with an ASP.NET Core API and SQL Server.
 
-My interests include full-stack development, software architecture, database systems, and software quality.
+- Reservation validation: dates, operating hours, maximum duration and overlapping bookings.
+- Authentication with user roles and failed login controls.
+- Unit testing and documented test cases.
 
-- **Development:** Desktop applications, web applications and REST APIs.
-- **Languages:** C#, Java, C++, JavaScript and SQL.
-- **Architecture:** Object-Oriented Programming, layered architecture, MVC and design patterns.
-- **Quality:** Software testing, validation and maintainable code.
-- **Collaboration:** Git, GitHub, Visual Studio, VS Code and Azure DevOps.
+**React · Vite · C# · ASP.NET Core · Entity Framework Core · SQL Server · xUnit**
 
-> "Great software is built through curiosity, collaboration, and continuous improvement."
-
----
-
-## Tech Stack
-
-### Programming Languages
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,java,cpp,js,html,css&perline=6" alt="Programming languages"/>
-</div>
-
-### Frameworks & Technologies
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,react,tailwind,nodejs&perline=4" alt="Frameworks and technologies"/>
-</div>
-
-### Databases & Backend Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase&perline=3" alt="Databases"/>
-  <br/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logoColor=white" alt="SQL Server"/>
-</div>
-
-### Development & Collaboration Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,azure&perline=6" alt="Development tools"/>
-</div>
-
----
-
-## Featured Projects
-
-### CondoGest | Condominium Management System
-
-A desktop application designed to support condominium administration through property management, residents, billing, reservations and reporting.
-
-**Tech Stack:** C# · .NET · Windows Forms · SQL Server · QuestPDF
-
-**Highlights:**
-- Layered application architecture.
-- Data access and business logic separation.
-- Database integration and reporting.
-- Practical application of design patterns.
-
-[View CondoGest Repository](https://github.com/LuisD-Dev/CondoGest_ISW524)
-
----
-
-### Patitas CR | Pet Adoption Platform
-
-A collaborative web project focused on connecting people with pets available for adoption through a simple and accessible interface.
-
-**Tech Stack:** HTML · CSS · JavaScript · JSON
-
-**Highlights:**
-- Pet catalog with dynamic filters.
-- Favorites and adoption requests.
-- Responsive user interface.
-- LocalStorage for client-side data.
-
-[View Team Repository](https://github.com/estebanbq07/proyecto-adopcion_patitas)
-
----
-
-### Chema Style | Football Jersey Store
-
-A web application concept focused on browsing football jerseys and managing a shopping cart through an interactive interface.
-
-**Tech Stack:** React · JavaScript · CSS · Supabase
-
-**Highlights:**
-- Dynamic product catalog.
-- Product variant selection.
-- Shopping cart interactions.
-- Supabase integration.
-
----
-
-### Delivery Simulator | Graph Algorithms
-
-A C++ logistics simulation that applies data structures and algorithms to delivery route planning and resource allocation.
-
-**Tech Stack:** C++ · Graphs · Dijkstra · Priority Queues
-
-**Highlights:**
-- Weighted graph representation.
-- Shortest-path calculation.
-- Delivery assignment strategies.
-- Performance metrics and comparisons.
-
-<div align="center">
-  <a href="https://github.com/LuisD-Dev?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_More_Repositories-0284C7?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
-  </a>
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img width="440" src="https://github-stats-extended.vercel.app/api?username=LuisD-Dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
-
-<br/>
-
-<img width="380" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LuisD-Dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-
-</div>
-
----
-
-## Current Focus
-
-I'm continuously improving my skills through academic projects, practical development and collaborative teamwork.
-
-I'm particularly interested in:
-
-- Full-stack software development.
-- Backend systems and database design.
-- Software architecture and design patterns.
-- Automated testing and software quality.
-- Agile development and Azure DevOps workflows.
+[Explore source & setup](https://github.com/LuisD-Dev/Reservas-Labs#readme) · [Browse development history](https://github.com/LuisD-Dev/Reservas-Labs/commits/main)
 
 <details>
-  <summary><b>Click to learn more about my development journey</b></summary>
-  <br/>
+<summary><b>What to look for in this project</b></summary>
 
-  My learning journey combines academic knowledge with practical projects.
+<br>
 
-  I've worked on desktop systems with C# and SQL Server, web applications with React and JavaScript, and algorithmic solutions using C++.
+Follow the flow from a reservation form to backend validation and database persistence. The README documents business rules, test scenarios and local setup.
 
-  I enjoy understanding how applications work internally, improving code quality, and learning from collaborative development experiences.
+This is an academic project under continued development. Run it locally using the repository instructions.
 
-  My long-term goal is to become a well-rounded software engineer capable of designing reliable, maintainable and impactful systems.
+</details>
+
+### 02 / CondoGest
+**Desktop development · Layered architecture · Data management**
+
+A condominium management desktop application covering properties, residents, billing, payments, common-area reservations and reporting.
+
+- Built with WinForms, .NET Framework 4.8, ADO.NET and SQL Server.
+- Separates presentation, business logic and data access.
+- Includes architecture documentation, technical and user manuals, and verification instructions.
+
+**C# · .NET Framework · Windows Forms · ADO.NET · SQL Server**
+
+[Explore source & setup](https://github.com/LuisD-Dev/CondoGest_ISW524#readme) · [Read the architecture](https://github.com/LuisD-Dev/CondoGest_ISW524/blob/main/ARQUITECTURA.md)
+
+<details>
+<summary><b>What to look for in this project</b></summary>
+
+<br>
+
+Explore how application layers divide responsibilities and how database operations support administrative workflows. Start with the architecture guide, then review the technical documentation linked in the README.
+
+This is an academic desktop application. Installation requires Windows, the .NET Framework targeting pack and SQL Server.
+
+</details>
+
+### 03 / ProyectoFlota
+**In development · Web APIs · Clean Architecture**
+
+An academic vehicle fleet maintenance management project for UTN's Web Programming II course.
+
+The documented architecture separates **Domain**, **Application**, **Infrastructure** and **API** responsibilities.
+
+**Planned stack:** ASP.NET Core · Entity Framework Core · SQL Server · React
+
+[Explore the project](https://github.com/LuisD-Dev/ProyectoFlota#readme) · [Follow development](https://github.com/LuisD-Dev/ProyectoFlota/commits/main)
+
+---
+
+## Technical toolkit
+
+| Area | Technologies and practices |
+| :--- | :--- |
+| Backend & desktop | C#, .NET, ASP.NET Core, Windows Forms |
+| Frontend | JavaScript, React, HTML, CSS, Vite |
+| Data | SQL Server, SQL, Entity Framework Core, ADO.NET |
+| Quality | xUnit, Postman, validation and documented test cases |
+| Architecture | Object-oriented programming, layered architecture, Clean Architecture |
+| Collaboration | Git, GitHub, Azure DevOps, Visual Studio, VS Code |
+
+<details>
+<summary><b>Additional foundations & current learning</b></summary>
+
+<br>
+
+My academic background also includes Java, C++ and data structures.
+
+I am strengthening my skills in API design, automated testing, database modeling and maintainable software architecture through practical projects and collaborative development.
+
+</details>
+
+## How I approach development
+
+**Understand the problem → model the rules → build the solution → validate behavior → document the result.**
+
+My repositories show an ongoing learning process through academic work, implementation decisions and team collaboration.
+
+## En español
+
+<details>
+<summary><b>Ver presentación en español</b></summary>
+
+<br>
+
+### Hola, soy Luis Diego Campos
+
+Estudio **Ingeniería del Software en la Universidad Técnica Nacional**, Costa Rica. Desarrollo aplicaciones web y de escritorio con **C#, .NET, React y SQL Server**.
+
+Me interesa construir soluciones útiles, entender sus reglas de negocio y mejorar su calidad mediante pruebas y documentación.
+
+- **Reservas-Labs:** aplicación web para reservar laboratorios, con validaciones y pruebas.
+- **CondoGest:** sistema de escritorio para la administración de condominios.
+- **ProyectoFlota:** proyecto académico en desarrollo para gestionar mantenimiento de flotas.
+
+Puedes explorar el código y las instrucciones de ejecución en los enlaces de cada proyecto, o conectar conmigo en LinkedIn.
 
 </details>
 
 ---
 
-## Let's Connect
-
 <div align="center">
 
-I'm always interested in exchanging ideas, learning new technologies and connecting with other developers.
+### Let's connect
 
-<a href="https://www.linkedin.com/in/luis-diego-campos-b1225b424">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/LuisD-Dev">
-  <img src="https://img.shields.io/badge/Follow_on_GitHub-0B1120?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+Interested in software development, practical projects and exchanging ideas.
 
-<br/><br/>
+**[LinkedIn ↗](https://www.linkedin.com/in/luis-diego-campos-b1225b424)** · **[All repositories ↗](https://github.com/LuisD-Dev?tab=repositories)** · **[Public activity ↗](https://github.com/LuisD-Dev?tab=overview)**
 
-**Thanks for visiting my profile!**
-
-*Building. Learning. Improving.*
+<sub>Learning through practice. Building with purpose.</sub>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:12263F,100:0284C7&height=110&section=footer" alt="Footer banner"/>
