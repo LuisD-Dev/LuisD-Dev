@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Luis Diego Campos — Software Engineering Student. C# / .NET / React / SQL Server">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#142b46"/></linearGradient><linearGradient id="line"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#2dd4bf"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#334155" stroke-opacity=".25"/></pattern></defs>
+<rect width="1200" height="320" rx="20" fill="url(#bg)"/><rect width="1200" height="320" rx="20" fill="url(#grid)"/>
+<rect x="56" y="52" width="5" height="215" rx="2" fill="url(#line)"/>
+<text x="86" y="86" fill="#5eead4" font-family="Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="3">LUISD-DEV / COSTA RICA</text>
+<text x="82" y="150" fill="#f8fafc" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="49">Luis Diego Campos</text>
+<text x="86" y="193" fill="#cbd5e1" font-family="Segoe UI,Arial,sans-serif" font-size="24">Software Engineering Student</text>
+<text x="86" y="246" fill="#7dd3fc" font-family="Consolas,monospace" font-size="19">C# / .NET / React / SQL Server</text>
+<g transform="translate(965 91)" fill="none" stroke="url(#line)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"><path d="M25 30L-10 69L25 108M110 30L145 69L110 108M85 0L50 138"/></g>
+<circle cx="1112" cy="263" r="5" fill="#2dd4bf"/>
+</svg>
