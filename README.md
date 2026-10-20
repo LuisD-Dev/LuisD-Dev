@@ -1,13 +1,44 @@
 <div align="center">
 
-<img src="assets/profile-header.svg" width="100%" alt="Luis Diego Campos | Software Engineering Student | C#, .NET, React and SQL Server" />
+<img src="assets/profile-header.svg" width="100%" alt="Luis Diego Campos — Software Engineering Student" />
 
-# Building practical software, with quality in mind.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&height=55&lines=Building+with+C%23+and+.NET;Creating+web+experiences+with+React;Turning+ideas+into+working+software;Learning.+Building.+Improving." width="90%" alt="Animated introduction: C# and .NET, React, and practical software development" />
 
-Software Engineering student at **Universidad Técnica Nacional (UTN)**, Costa Rica.  
-I develop desktop and web applications, connecting user interfaces, business rules and relational databases.
+**Software Engineering Student · UTN · Costa Rica**
 
-[Explore my projects](#selected-projects) · [Technical toolkit](#technical-toolkit) · [Visitor hub](#visitor-hub) · [Connect on LinkedIn](https://www.linkedin.com/in/luis-diego-campos-b1225b424)
+<a href="https://www.linkedin.com/in/luis-diego-campos-b1225b424"><img src="https://img.shields.io/badge/LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="#github-dashboard"><img src="https://img.shields.io/badge/MY_STATS-142B46?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Explore my GitHub dashboard" /></a>
+<a href="#selected-projects"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-142B46?style=for-the-badge&logo=github&logoColor=2DD4BF" alt="Explore my projects" /></a>
+
+</div>
+
+## GitHub dashboard
+
+<div align="center">
+
+<a href="https://github.com/LuisD-Dev?tab=overview"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisD-Dev&theme=github_dark&animation=sequence&duration=3" alt="GitHub profile overview and contribution timeline" /></a>
+
+<a href="https://github.com/LuisD-Dev?tab=repositories"><img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuisD-Dev&theme=github_dark&animation=load&duration=3" alt="GitHub statistics: repositories, commits, pull requests and stars" /></a>
+<a href="https://github.com/LuisD-Dev?tab=repositories"><img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuisD-Dev&theme=github_dark&animation=draw&duration=3" alt="Most used languages across public repositories" /></a>
+
+<a href="https://github.com/LuisD-Dev?tab=overview"><img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuisD-Dev&theme=github_dark&animation=draw&duration=3" alt="Languages by commits" /></a>
+<a href="https://github.com/LuisD-Dev?tab=overview"><img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LuisD-Dev&theme=github_dark&utcOffset=-6&animation=load&duration=3" alt="Commit activity by time of day, UTC minus six" /></a>
+
+<sub>Public GitHub activity · Cards refresh through the provider's cache · Click a card to explore.</sub>
+
+</div>
+
+## Behind the code
+
+I am **Luis Diego Campos**, a Software Engineering student at **Universidad Técnica Nacional**. I build web and desktop applications with a focus on business rules, architecture and software testing.
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,html,css,git,github,visualstudio,vscode,postman,azure&perline=6" alt="C#, .NET, React, JavaScript, HTML, CSS, Git, GitHub, Visual Studio, VS Code, Postman and Azure" />
+
+**Backend & desktop** · C# / .NET / ASP.NET Core / Windows Forms  
+**Frontend** · React / JavaScript / HTML / CSS  
+**Data & quality** · SQL Server / EF Core / ADO.NET / xUnit
 
 </div>
 
@@ -76,89 +107,29 @@ The documented architecture separates **Domain**, **Application**, **Infrastruct
 
 ---
 
-## Technical toolkit
 
-| Area | Technologies and practices |
-| :--- | :--- |
-| Backend & desktop | C#, .NET, ASP.NET Core, Windows Forms |
-| Frontend | JavaScript, React, HTML, CSS, Vite |
-| Data | SQL Server, SQL, Entity Framework Core, ADO.NET |
-| Quality | xUnit, Postman, validation and documented test cases |
-| Architecture | Object-oriented programming, layered architecture, Clean Architecture |
-| Collaboration | Git, GitHub, Azure DevOps, Visual Studio, VS Code |
+## Currently exploring
 
 <details>
-<summary><b>Additional foundations & current learning</b></summary>
+<summary><b>Open my development roadmap</b></summary>
 
 <br>
 
-My academic background also includes Java, C++ and data structures.
+- API design and full-stack workflows with .NET and React.
+- Clean Architecture, layered systems and database modeling.
+- Automated testing, validation and maintainable code.
+- Collaboration through Git, GitHub and Azure DevOps.
 
-I am strengthening my skills in API design, automated testing, database modeling and maintainable software architecture through practical projects and collaborative development.
-
-</details>
-
-## How I approach development
-
-**Understand the problem → model the rules → build the solution → validate behavior → document the result.**
-
-My repositories show an ongoing learning process through academic work, implementation decisions and team collaboration.
-
-## Visitor hub
-
-**Choose how you would like to connect.** Everyone can explore; posting requires a GitHub account. Messages are public, so please keep private contact details out of them.
-
-| Say hello | Build something together | Share an idea |
-| :--- | :--- | :--- |
-| Introduce yourself and tell me what you are working on. | Suggest a project, contribution or technical collaboration. | Ask a question or suggest an improvement to this profile. |
-| [Leave a greeting →](https://github.com/LuisD-Dev/LuisD-Dev/issues/new?title=Hello%20from%20a%20visitor&body=Hi%20Luis!%0A%0AWhat%20I%20am%20working%20on%3A%0A%0AHow%20I%20found%20your%20profile%3A%0A%0AA%20message%20for%20you%3A) | [Propose a collaboration →](https://github.com/LuisD-Dev/LuisD-Dev/issues/new?title=Collaboration%20proposal&body=Project%20or%20idea%3A%0A%0AWhat%20we%20could%20build%3A%0A%0ATechnologies%3A%0A%0AHow%20I%20would%20contribute%3A) | [Start a conversation →](https://github.com/LuisD-Dev/LuisD-Dev/issues/new?title=Question%20or%20suggestion&body=My%20question%20or%20idea%3A%0A%0ARelevant%20project%20or%20link%3A) |
-
-[Read visitor conversations](https://github.com/LuisD-Dev/LuisD-Dev/issues) · [Connect privately on LinkedIn](https://www.linkedin.com/in/luis-diego-campos-b1225b424)
-
-<details>
-<summary><b>I am a recruiter — where should I start?</b></summary>
-
-<br>
-
-Start with **Reservas-Labs** for full-stack development and software testing, then explore **CondoGest** for desktop development and layered architecture. Each project above links to its source and setup documentation.
-
-My current profile is that of a Software Engineering student, with practical experience through academic and collaborative projects. Connect through LinkedIn to discuss opportunities.
+My projects reflect an ongoing learning process through academic work and team collaboration.
 
 </details>
-
-<details>
-<summary><b>I am a developer — how can I get involved?</b></summary>
-
-<br>
-
-Explore a project's README, try its local setup and review the code. If you find an improvement, open an issue in that project's repository with the problem, steps to reproduce and expected behavior. For a new idea, use the collaboration link above.
-
-</details>
-
-<details>
-<summary><b>I am learning — what can I explore?</b></summary>
-
-<br>
-
-- **Frontend + API + database:** explore Reservas-Labs.
-- **Desktop workflows + application layers:** explore CondoGest.
-- **Architecture in progress:** follow ProyectoFlota.
-
-Open the project details above for a short reading guide. Questions are welcome through the conversation link.
-
-</details>
-
----
 
 <div align="center">
 
-### Let's connect
+### Let's build something useful.
 
-Interested in software development, practical projects and exchanging ideas.
+[Connect on LinkedIn](https://www.linkedin.com/in/luis-diego-campos-b1225b424) · [Explore all repositories](https://github.com/LuisD-Dev?tab=repositories)
 
-**[LinkedIn ↗](https://www.linkedin.com/in/luis-diego-campos-b1225b424)** · **[All repositories ↗](https://github.com/LuisD-Dev?tab=repositories)** · **[Public activity ↗](https://github.com/LuisD-Dev?tab=overview)**
-
-<sub>Learning through practice. Building with purpose.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:0284C7&height=100&section=footer&animation=twinkling" width="100%" alt="Animated blue wave footer" />
 
 </div>
-
