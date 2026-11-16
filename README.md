@@ -1,7 +1,6 @@
-# Luis Diego Campos Murillo
+<img src="assets/profile-header.svg" width="100%" alt="Luis Diego Campos Murillo, Software Engineering Student and Junior Software Developer in Costa Rica. Illustrated route from Grecia to Poás." />
 
-*Software Engineering Student | Junior Software Developer*  
-Costa Rica · [LinkedIn](https://www.linkedin.com/in/luis-diego-campos-b1225b424)
+[LinkedIn](https://www.linkedin.com/in/luis-diego-campos-b1225b424)
 
 I'm working toward a bachelor's degree in software engineering at Universidad Técnica Nacional. Most of my university projects start with a practical question. Can two students book the same lab? Which delivery should a driver make first? I use C#, React, and SQL Server for the applications, and C++ when I want to compare algorithms.
 
