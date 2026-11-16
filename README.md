@@ -1,4 +1,4 @@
-<img src="assets/profile-header.svg" width="100%" alt="Luis Diego Campos Murillo, Software Engineering Student and Junior Software Developer in Costa Rica. Illustrated route from Grecia to Poás." />
+<img src="assets/profile-header.svg" width="100%" alt="Luis Diego Campos Murillo, Software Engineering Student and Junior Software Developer in Costa Rica. Illustrated route." />
 
 [LinkedIn](https://www.linkedin.com/in/luis-diego-campos-b1225b424)
 
