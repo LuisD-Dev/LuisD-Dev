@@ -21,7 +21,7 @@ Soy **Luis Diego Campos Murillo**, de Costa Rica, y estoy cursando el bachillera
 
 ## Proyectos destacados
 
-### 🚚 Mantenimiento de Flota
+### Mantenimiento de Flota
 
 API que desarrollé con Oscar Rojas García para administrar vehículos, órdenes de mantenimiento y repuestos. Un encargado puede buscar piezas por debajo del stock mínimo y comparar el precio y el plazo de entrega de sus proveedores.
 
@@ -29,7 +29,7 @@ API que desarrollé con Oscar Rojas García para administrar vehículos, órdene
 
 [Repositorio y ejemplos de la API](https://github.com/LuisD-Dev/ProyectoFlota#readme) · [Mi implementación del inicio de sesión](https://github.com/LuisD-Dev/ProyectoFlota/commit/20b85650489e334c4a9906bcf6f8fe01d888724f)
 
-### 🧪 Reservas-Labs
+### Reservas-Labs
 
 Sistema de reservas de laboratorios de la UTN. El formulario en **React** envía la solicitud a una API en **C#**, que valida horarios, disponibilidad y propietario. Las reservas se almacenan en **SQL Server**.
 
@@ -37,7 +37,7 @@ Sistema de reservas de laboratorios de la UTN. El formulario en **React** envía
 
 [Repositorio](https://github.com/LuisD-Dev/Reservas-Labs) · [Pruebas de traslapes](https://github.com/LuisD-Dev/Reservas-Labs/commit/2744e0402d209e888cdb29e6d202436dc1a5a204) · [Integración continua](https://github.com/LuisD-Dev/Reservas-Labs/pull/14)
 
-### 🏘️ CondoGest
+### CondoGest
 
 Aplicación de escritorio para administrar un condominio. Desde una propiedad se pueden consultar cargos, facturas y pagos. También cubre reservas de áreas comunes y registro de visitas mediante QR.
 
@@ -45,7 +45,7 @@ Aplicación de escritorio para administrar un condominio. Desde una propiedad se
 
 [Repositorio y manuales](https://github.com/LuisD-Dev/CondoGest_ISW524) · [Arquitectura por capas](https://github.com/LuisD-Dev/CondoGest_ISW524/blob/main/ARQUITECTURA.md)
 
-### 📦 Simulador de mensajería
+### Simulador de mensajería
 
 Modelé una red de entregas en **C++** con una lista de adyacencia. **Dijkstra** calcula el recorrido más corto. Sobre el mismo grafo comparé dos formas de asignar paquetes: priorizar los urgentes o elegir el destino más cercano. Al simular ambas durante la misma cantidad de *ticks*, puedo medir cómo cambian la espera promedio y el total de entregas.
 
