@@ -4,96 +4,53 @@
 
 **Software Engineering Student | Junior Software Developer**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=1100&color=38BDF8&center=true&vCenter=true&width=620&lines=APIs+con+C%23+y+.NET;Interfaces+con+React;Rutas+y+grafos+en+C%2B%2B" width="90%" alt="APIs con .NET, interfaces con React y algoritmos en C++" />
-
-[Proyectos](#proyectos) · [Tecnologías](#tecnologías) · [Actividad](#actividad) · [LinkedIn](https://www.linkedin.com/in/luis-diego-campos-b1225b424)
+[Contribuciones](#contribuciones-destacadas)　·　[Proyectos](#proyectos-destacados)　·　[LinkedIn](https://www.linkedin.com/in/luis-diego-campos-b1225b424)
 
 </div>
 
-Soy **Luis Diego Campos Murillo**, de Costa Rica, y estoy cursando el bachillerato de Ingeniería del Software en la **Universidad Técnica Nacional**. Me interesa cómo una regla del mundo real se convierte en código: qué pasa cuando dos personas reservan el mismo laboratorio o cómo decide un repartidor qué paquete entregar primero.
+Soy **Luis Diego Campos Murillo**, de Costa Rica, y estoy cursando el bachillerato de Ingeniería del Software en la **Universidad Técnica Nacional**. Desarrollo aplicaciones con C#, React y SQL Server. También colaboro en proyectos abiertos donde trabajo con procesamiento de eventos, integridad de datos y pruebas automatizadas.
 
-## Proyectos
+## Contribuciones destacadas
 
-Abrí cada proyecto para ver cómo funciona y qué tecnologías utilicé.
+| Proyecto | Qué aporté | Cambio integrado |
+| :--- | :--- | :--- |
+| **Velo** · Stellar / Soroban | Construí un indexador que guarda en **PostgreSQL** los eventos de fondos bloqueados, liberados o en disputa. Expuse ese historial mediante **GraphQL** y las actualizaciones en vivo mediante **WebSocket**. | [Ver PR #354 ↗](https://github.com/Nullifier-Systems/velo/pull/354) |
+| **GuildPass** · Auditoría | Encadené las entradas del registro en **PostgreSQL** con hashes **SHA-256**. Un administrador puede verificar el historial y localizar la primera entrada afectada por una modificación. | [Ver PR #315 ↗](https://github.com/Adamantine-guild/guildpass-app/pull/315) |
+| **Teclia Academy** · Pagos | Integré el SDK oficial de **Stripe** en **Express** para verificar las notificaciones de pago y evitar que un reintento procese dos veces el mismo evento. | [Ver PR #89 ↗](https://github.com/Teclia-Academy/Teclia-Academy/pull/89) |
+| **Nester** · Contratos inteligentes | Escribí pruebas en **Rust** para comprobar quién puede ejecutar operaciones privilegiadas y qué ocurre después de revocar un rol. La suite del PR pasó 396 pruebas. | [Ver PR #797 ↗](https://github.com/Suncrest-Labs/nester/pull/797) |
 
-<details>
-<summary><strong>Mantenimiento de Flota</strong> · API REST para un taller de flota vehicular</summary>
+## Proyectos destacados
 
-Desarrollé esta API con Oscar Rojas García para Programación Web II. Permite registrar órdenes de mantenimiento, consultar las especialidades de cada técnico y encontrar repuestos por debajo del inventario mínimo. Para un mismo repuesto, se puede consultar el precio y el plazo de entrega de cada proveedor.
+### 🚚 Mantenimiento de Flota
 
-**C# · ASP.NET Core · EF Core · SQL Server**
+API que desarrollé con Oscar Rojas García para administrar vehículos, órdenes de mantenimiento y repuestos. Un encargado puede buscar piezas por debajo del stock mínimo y comparar el precio y el plazo de entrega de sus proveedores.
 
-[Explorar las 47 operaciones documentadas](https://github.com/LuisD-Dev/ProyectoFlota#api-y-contratos)
+**Cómo lo implementé.** Usé **ASP.NET Core** para los endpoints, **EF Core y SQL Server** para las relaciones entre activos, órdenes y repuestos, y **JWT** para identificar al usuario autenticado.
 
-</details>
+[Repositorio y ejemplos de la API](https://github.com/LuisD-Dev/ProyectoFlota#readme) · [Mi implementación del inicio de sesión](https://github.com/LuisD-Dev/ProyectoFlota/commit/20b85650489e334c4a9906bcf6f8fe01d888724f)
 
-<details>
-<summary><strong>CondoGest</strong> · Administración de condominios desde Windows</summary>
+### 🧪 Reservas-Labs
 
-La administración puede consultar los cargos, facturas y pagos de una propiedad. También puede reservar áreas comunes y registrar visitas mediante QR. La aplicación separa los formularios, las reglas de negocio y el acceso a SQL Server.
+Sistema de reservas de laboratorios de la UTN. El formulario en **React** envía la solicitud a una API en **C#**, que valida horarios, disponibilidad y propietario. Las reservas se almacenan en **SQL Server**.
 
-**C# · WinForms · .NET Framework 4.8 · ADO.NET · SQL Server**
+**Mi aporte.** Escribí pruebas para el caso en que dos reservas se cruzan solo durante parte del horario. También configuré **Azure Pipelines** para compilar la API, ejecutar las pruebas y publicar sus resultados con cada cambio en la rama principal. La ejecución documentada en el PR pasó **209 pruebas**.
 
-[Ver el proyecto](https://github.com/LuisD-Dev/CondoGest_ISW524) · [Recorrer la arquitectura](https://github.com/LuisD-Dev/CondoGest_ISW524/blob/main/ARQUITECTURA.md)
+[Repositorio](https://github.com/LuisD-Dev/Reservas-Labs) · [Pruebas de traslapes](https://github.com/LuisD-Dev/Reservas-Labs/commit/2744e0402d209e888cdb29e6d202436dc1a5a204) · [Integración continua](https://github.com/LuisD-Dev/Reservas-Labs/pull/14)
 
-</details>
+### 🏘️ CondoGest
 
-<details>
-<summary><strong>Reservas-Labs</strong> · Reservas de laboratorios y pruebas de software</summary>
+Aplicación de escritorio para administrar un condominio. Desde una propiedad se pueden consultar cargos, facturas y pagos. También cubre reservas de áreas comunes y registro de visitas mediante QR.
 
-Proyecto en equipo para el curso de Pruebas de Software de la UTN. Cuando una persona solicita un laboratorio, la API comprueba el horario, la duración y si la reserva coincide con otra. Trabajamos con pruebas unitarias y casos de prueba vinculados a las historias de usuario.
+**Cómo funciona.** Los formularios en **WinForms** recogen los datos, la capa de negocio en **C#** aplica las reglas y la capa de persistencia usa **ADO.NET** para consultar y actualizar **SQL Server**.
 
-**React · Vite · ASP.NET Core · SQL Server · xUnit · Azure DevOps**
+[Repositorio y manuales](https://github.com/LuisD-Dev/CondoGest_ISW524) · [Arquitectura por capas](https://github.com/LuisD-Dev/CondoGest_ISW524/blob/main/ARQUITECTURA.md)
 
-[Consultar las reglas y pruebas](https://github.com/LuisD-Dev/Reservas-Labs#readme)
+### 📦 Simulador de mensajería
 
-</details>
+Modelé una red de entregas en **C++** con una lista de adyacencia. **Dijkstra** calcula el recorrido más corto. Sobre el mismo grafo comparé dos formas de asignar paquetes: priorizar los urgentes o elegir el destino más cercano. Al simular ambas durante la misma cantidad de *ticks*, puedo medir cómo cambian la espera promedio y el total de entregas.
 
-<details>
-<summary><strong>Simulador de mensajería</strong> · Rutas y asignación de paquetes en C++</summary>
+**Otros proyectos.** En **Chema Style** trabajé con React para la interfaz y Supabase para los datos. **Patitas CR** es un sitio web de adopción de mascotas. En **Teclia Academia**, la interfaz de aprendizaje en React se comunica con una API de Express que controla el acceso al contenido según el plan. [Explorar Teclia](https://github.com/LuisD-Dev/luis-rama/tree/develop)
 
-Modelé las ubicaciones como nodos y las distancias en kilómetros como aristas. Dijkstra calcula la ruta completa del repartidor. El simulador compara dos formas de elegir la siguiente entrega: atender primero los paquetes urgentes y luego por orden de llegada, o elegir el destino más cercano.
+<p align="center"><img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,cpp,postgres,rust,git&theme=dark" alt="C#, .NET, React, JavaScript, C++, PostgreSQL, Rust y Git" /></p>
 
-Al ejecutar ambas estrategias durante la misma cantidad de *ticks*, puedo comparar paquetes entregados, tiempos de espera y entregas por repartidor.
-
-**C++ · Grafos · Colas de prioridad · Tablas hash**
-
-</details>
-
-<details>
-<summary><strong>Teclia Academia</strong> · Plataforma de aprendizaje con acceso por plan</summary>
-
-La plataforma reúne perfiles de estudiantes, carga de contenido y permisos según el plan de cada usuario. El frontend consume una API de Express con autenticación por JWT. Para desarrollo local, el backend puede usar SQLite.
-
-**React · Vite · Node.js · Express · SQLite / PostgreSQL**
-
-[Ver el repositorio](https://github.com/LuisD-Dev/luis-rama/tree/develop) · [Consultar la API](https://github.com/LuisD-Dev/luis-rama/blob/develop/API_DOCUMENTATION.md)
-
-</details>
-
-También he trabajado en **Patitas CR**, un sitio web de adopción de mascotas, y en **Chema Style**, una aplicación web con interfaz en React y servicios de datos en Supabase.
-
-## Tecnologías
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,java,react,js,html,css,supabase,git,visualstudio,vscode&theme=dark&perline=6" alt="C#, .NET, C++, Java, React, JavaScript, HTML, CSS, Supabase, Git, Visual Studio y VS Code" />
-
-Para persistencia trabajo con **SQL Server, EF Core y ADO.NET**. Para probar y documentar APIs utilizo **xUnit, Postman y Scalar**.
-
-## Actividad
-
-<details>
-<summary><strong>Ver contribuciones, lenguajes y estadísticas</strong></summary>
-
-<div align="center">
-
-<a href="https://github.com/LuisD-Dev?tab=overview"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisD-Dev&theme=github_dark" alt="Contribuciones públicas" /></a>
-<a href="https://github.com/LuisD-Dev?tab=repositories"><img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuisD-Dev&theme=github_dark" alt="Estadísticas de GitHub" /></a>
-<a href="https://github.com/LuisD-Dev?tab=repositories"><img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuisD-Dev&theme=github_dark" alt="Lenguajes por repositorio" /></a>
-<a href="https://github.com/LuisD-Dev?tab=overview"><img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuisD-Dev&theme=github_dark" alt="Lenguajes por commits" /></a>
-<a href="https://github.com/LuisD-Dev?tab=overview"><img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LuisD-Dev&theme=github_dark&utcOffset=-6" alt="Actividad por hora" /></a>
-
-</div>
-
-</details>
-
-[Explorar mis repositorios públicos](https://github.com/LuisD-Dev?tab=repositories) · [Conectar en LinkedIn](https://www.linkedin.com/in/luis-diego-campos-b1225b424)
+[Más contribuciones integradas](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3ALuisD-Dev) · [Todos mis repositorios](https://github.com/LuisD-Dev?tab=repositories)
